@@ -1,1 +1,1 @@
-
+open open(filename, 'r') ##open a file called filename and use it for reading. This will return a reference to a file object.
